@@ -84,6 +84,10 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 - [Selenium](https://www.seleniumhq.org/)
 
+## Content Validation
+
+- [Doc Detective](https://doc-detective.com)
+
 ## Editor
 
 - [HackMD](https://hackmd.io/)
